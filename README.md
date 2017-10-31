@@ -17,9 +17,12 @@ Author: Haoyu SHE (Henry)
 ## Screenshot & tutorial
 
 1.index.html
-[index.html](/screenshot/MainPage.png)
+
+![index.html](/screenshot/MainPage.png)
 2.page2.html
-[page2.html](/screenshot/page2.png)
+![page2.html](/screenshot/page2.png)
+
+*Noting that when you click the “tick”, the task will be deleted*
 
 
 ## Some problems that need to be improved
